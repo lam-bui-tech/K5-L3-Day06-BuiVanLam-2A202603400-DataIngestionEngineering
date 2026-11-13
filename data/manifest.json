@@ -1,0 +1,1022 @@
+{
+  "source_id": "pg108",
+  "title": "The Return of Sherlock Holmes",
+  "author": "Arthur Conan Doyle",
+  "source_path_or_url": "https://www.gutenberg.org/cache/epub/108/pg108-images.html",
+  "local_copy": "data/raw/pg108-images.html",
+  "license_or_permission": "Public domain (Project Gutenberg eBook #108, release 2006-03-08); free to download and reuse per the Project Gutenberg License.",
+  "accessed_at": "2026-11-13",
+  "page_rule": "The book has no physical pages. Content = paragraphs of the 13 stories only (Gutenberg header/footer, contents list and licence excluded). Paragraphs are packed in order into units closing at >= 3000 normalized chars without splitting a paragraph; a final unit < 1500 chars is merged into the previous one. Unit ID S<story>-U<index> is the page ID.",
+  "n_units": 183,
+  "n_chars_total": 607039,
+  "stories": [
+    {
+      "document_id": "S01",
+      "title": "THE ADVENTURE OF THE EMPTY HOUSE",
+      "units": [
+        "S01-U001",
+        "S01-U002",
+        "S01-U003",
+        "S01-U004",
+        "S01-U005",
+        "S01-U006",
+        "S01-U007",
+        "S01-U008",
+        "S01-U009",
+        "S01-U010",
+        "S01-U011",
+        "S01-U012",
+        "S01-U013",
+        "S01-U014"
+      ],
+      "n_chars": 47325
+    },
+    {
+      "document_id": "S02",
+      "title": "THE ADVENTURE OF THE NORWOOD BUILDER",
+      "units": [
+        "S02-U001",
+        "S02-U002",
+        "S02-U003",
+        "S02-U004",
+        "S02-U005",
+        "S02-U006",
+        "S02-U007",
+        "S02-U008",
+        "S02-U009",
+        "S02-U010",
+        "S02-U011",
+        "S02-U012",
+        "S02-U013",
+        "S02-U014",
+        "S02-U015"
+      ],
+      "n_chars": 50304
+    },
+    {
+      "document_id": "S03",
+      "title": "THE ADVENTURE OF THE DANCING MEN",
+      "units": [
+        "S03-U001",
+        "S03-U002",
+        "S03-U003",
+        "S03-U004",
+        "S03-U005",
+        "S03-U006",
+        "S03-U007",
+        "S03-U008",
+        "S03-U009",
+        "S03-U010",
+        "S03-U011",
+        "S03-U012",
+        "S03-U013",
+        "S03-U014",
+        "S03-U015",
+        "S03-U016"
+      ],
+      "n_chars": 51505
+    },
+    {
+      "document_id": "S04",
+      "title": "THE ADVENTURE OF THE SOLITARY CYCLIST",
+      "units": [
+        "S04-U001",
+        "S04-U002",
+        "S04-U003",
+        "S04-U004",
+        "S04-U005",
+        "S04-U006",
+        "S04-U007",
+        "S04-U008",
+        "S04-U009",
+        "S04-U010",
+        "S04-U011",
+        "S04-U012",
+        "S04-U013"
+      ],
+      "n_chars": 42311
+    },
+    {
+      "document_id": "S05",
+      "title": "THE ADVENTURE OF THE PRIORY SCHOOL",
+      "units": [
+        "S05-U001",
+        "S05-U002",
+        "S05-U003",
+        "S05-U004",
+        "S05-U005",
+        "S05-U006",
+        "S05-U007",
+        "S05-U008",
+        "S05-U009",
+        "S05-U010",
+        "S05-U011",
+        "S05-U012",
+        "S05-U013",
+        "S05-U014",
+        "S05-U015",
+        "S05-U016",
+        "S05-U017",
+        "S05-U018",
+        "S05-U019"
+      ],
+      "n_chars": 62134
+    },
+    {
+      "document_id": "S06",
+      "title": "THE ADVENTURE OF BLACK PETER",
+      "units": [
+        "S06-U001",
+        "S06-U002",
+        "S06-U003",
+        "S06-U004",
+        "S06-U005",
+        "S06-U006",
+        "S06-U007",
+        "S06-U008",
+        "S06-U009",
+        "S06-U010",
+        "S06-U011",
+        "S06-U012",
+        "S06-U013"
+      ],
+      "n_chars": 43686
+    },
+    {
+      "document_id": "S07",
+      "title": "THE ADVENTURE OF CHARLES AUGUSTUS MILVERTON",
+      "units": [
+        "S07-U001",
+        "S07-U002",
+        "S07-U003",
+        "S07-U004",
+        "S07-U005",
+        "S07-U006",
+        "S07-U007",
+        "S07-U008",
+        "S07-U009",
+        "S07-U010",
+        "S07-U011"
+      ],
+      "n_chars": 36451
+    },
+    {
+      "document_id": "S08",
+      "title": "THE ADVENTURE OF THE SIX NAPOLEONS",
+      "units": [
+        "S08-U001",
+        "S08-U002",
+        "S08-U003",
+        "S08-U004",
+        "S08-U005",
+        "S08-U006",
+        "S08-U007",
+        "S08-U008",
+        "S08-U009",
+        "S08-U010",
+        "S08-U011",
+        "S08-U012",
+        "S08-U013"
+      ],
+      "n_chars": 44915
+    },
+    {
+      "document_id": "S09",
+      "title": "THE ADVENTURE OF THE THREE STUDENTS",
+      "units": [
+        "S09-U001",
+        "S09-U002",
+        "S09-U003",
+        "S09-U004",
+        "S09-U005",
+        "S09-U006",
+        "S09-U007",
+        "S09-U008",
+        "S09-U009",
+        "S09-U010",
+        "S09-U011"
+      ],
+      "n_chars": 35000
+    },
+    {
+      "document_id": "S10",
+      "title": "THE ADVENTURE OF THE GOLDEN PINCE-NEZ",
+      "units": [
+        "S10-U001",
+        "S10-U002",
+        "S10-U003",
+        "S10-U004",
+        "S10-U005",
+        "S10-U006",
+        "S10-U007",
+        "S10-U008",
+        "S10-U009",
+        "S10-U010",
+        "S10-U011",
+        "S10-U012",
+        "S10-U013",
+        "S10-U014",
+        "S10-U015"
+      ],
+      "n_chars": 48147
+    },
+    {
+      "document_id": "S11",
+      "title": "THE ADVENTURE OF THE MISSING THREE-QUARTER",
+      "units": [
+        "S11-U001",
+        "S11-U002",
+        "S11-U003",
+        "S11-U004",
+        "S11-U005",
+        "S11-U006",
+        "S11-U007",
+        "S11-U008",
+        "S11-U009",
+        "S11-U010",
+        "S11-U011",
+        "S11-U012",
+        "S11-U013"
+      ],
+      "n_chars": 43635
+    },
+    {
+      "document_id": "S12",
+      "title": "THE ADVENTURE OF THE ABBEY GRANGE",
+      "units": [
+        "S12-U001",
+        "S12-U002",
+        "S12-U003",
+        "S12-U004",
+        "S12-U005",
+        "S12-U006",
+        "S12-U007",
+        "S12-U008",
+        "S12-U009",
+        "S12-U010",
+        "S12-U011",
+        "S12-U012",
+        "S12-U013",
+        "S12-U014"
+      ],
+      "n_chars": 48615
+    },
+    {
+      "document_id": "S13",
+      "title": "THE ADVENTURE OF THE SECOND STAIN",
+      "units": [
+        "S13-U001",
+        "S13-U002",
+        "S13-U003",
+        "S13-U004",
+        "S13-U005",
+        "S13-U006",
+        "S13-U007",
+        "S13-U008",
+        "S13-U009",
+        "S13-U010",
+        "S13-U011",
+        "S13-U012",
+        "S13-U013",
+        "S13-U014",
+        "S13-U015",
+        "S13-U016"
+      ],
+      "n_chars": 53011
+    }
+  ],
+  "units": [
+    {
+      "unit_id": "S01-U001",
+      "n_chars": 3567
+    },
+    {
+      "unit_id": "S01-U002",
+      "n_chars": 3650
+    },
+    {
+      "unit_id": "S01-U003",
+      "n_chars": 3208
+    },
+    {
+      "unit_id": "S01-U004",
+      "n_chars": 3786
+    },
+    {
+      "unit_id": "S01-U005",
+      "n_chars": 3482
+    },
+    {
+      "unit_id": "S01-U006",
+      "n_chars": 3127
+    },
+    {
+      "unit_id": "S01-U007",
+      "n_chars": 3165
+    },
+    {
+      "unit_id": "S01-U008",
+      "n_chars": 4520
+    },
+    {
+      "unit_id": "S01-U009",
+      "n_chars": 4724
+    },
+    {
+      "unit_id": "S01-U010",
+      "n_chars": 3159
+    },
+    {
+      "unit_id": "S01-U011",
+      "n_chars": 3028
+    },
+    {
+      "unit_id": "S01-U012",
+      "n_chars": 3111
+    },
+    {
+      "unit_id": "S01-U013",
+      "n_chars": 3069
+    },
+    {
+      "unit_id": "S01-U014",
+      "n_chars": 1729
+    },
+    {
+      "unit_id": "S02-U001",
+      "n_chars": 3098
+    },
+    {
+      "unit_id": "S02-U002",
+      "n_chars": 3305
+    },
+    {
+      "unit_id": "S02-U003",
+      "n_chars": 3453
+    },
+    {
+      "unit_id": "S02-U004",
+      "n_chars": 4377
+    },
+    {
+      "unit_id": "S02-U005",
+      "n_chars": 3029
+    },
+    {
+      "unit_id": "S02-U006",
+      "n_chars": 3024
+    },
+    {
+      "unit_id": "S02-U007",
+      "n_chars": 3312
+    },
+    {
+      "unit_id": "S02-U008",
+      "n_chars": 3798
+    },
+    {
+      "unit_id": "S02-U009",
+      "n_chars": 3087
+    },
+    {
+      "unit_id": "S02-U010",
+      "n_chars": 3101
+    },
+    {
+      "unit_id": "S02-U011",
+      "n_chars": 3047
+    },
+    {
+      "unit_id": "S02-U012",
+      "n_chars": 3035
+    },
+    {
+      "unit_id": "S02-U013",
+      "n_chars": 3077
+    },
+    {
+      "unit_id": "S02-U014",
+      "n_chars": 3085
+    },
+    {
+      "unit_id": "S02-U015",
+      "n_chars": 4476
+    },
+    {
+      "unit_id": "S03-U001",
+      "n_chars": 3059
+    },
+    {
+      "unit_id": "S03-U002",
+      "n_chars": 3611
+    },
+    {
+      "unit_id": "S03-U003",
+      "n_chars": 3079
+    },
+    {
+      "unit_id": "S03-U004",
+      "n_chars": 3033
+    },
+    {
+      "unit_id": "S03-U005",
+      "n_chars": 3125
+    },
+    {
+      "unit_id": "S03-U006",
+      "n_chars": 3363
+    },
+    {
+      "unit_id": "S03-U007",
+      "n_chars": 3190
+    },
+    {
+      "unit_id": "S03-U008",
+      "n_chars": 3297
+    },
+    {
+      "unit_id": "S03-U009",
+      "n_chars": 3080
+    },
+    {
+      "unit_id": "S03-U010",
+      "n_chars": 3025
+    },
+    {
+      "unit_id": "S03-U011",
+      "n_chars": 3152
+    },
+    {
+      "unit_id": "S03-U012",
+      "n_chars": 3933
+    },
+    {
+      "unit_id": "S03-U013",
+      "n_chars": 3092
+    },
+    {
+      "unit_id": "S03-U014",
+      "n_chars": 3404
+    },
+    {
+      "unit_id": "S03-U015",
+      "n_chars": 4328
+    },
+    {
+      "unit_id": "S03-U016",
+      "n_chars": 1734
+    },
+    {
+      "unit_id": "S04-U001",
+      "n_chars": 3125
+    },
+    {
+      "unit_id": "S04-U002",
+      "n_chars": 3769
+    },
+    {
+      "unit_id": "S04-U003",
+      "n_chars": 3549
+    },
+    {
+      "unit_id": "S04-U004",
+      "n_chars": 3518
+    },
+    {
+      "unit_id": "S04-U005",
+      "n_chars": 3085
+    },
+    {
+      "unit_id": "S04-U006",
+      "n_chars": 3381
+    },
+    {
+      "unit_id": "S04-U007",
+      "n_chars": 3421
+    },
+    {
+      "unit_id": "S04-U008",
+      "n_chars": 3029
+    },
+    {
+      "unit_id": "S04-U009",
+      "n_chars": 3023
+    },
+    {
+      "unit_id": "S04-U010",
+      "n_chars": 3355
+    },
+    {
+      "unit_id": "S04-U011",
+      "n_chars": 3195
+    },
+    {
+      "unit_id": "S04-U012",
+      "n_chars": 3676
+    },
+    {
+      "unit_id": "S04-U013",
+      "n_chars": 2185
+    },
+    {
+      "unit_id": "S05-U001",
+      "n_chars": 3055
+    },
+    {
+      "unit_id": "S05-U002",
+      "n_chars": 3185
+    },
+    {
+      "unit_id": "S05-U003",
+      "n_chars": 3067
+    },
+    {
+      "unit_id": "S05-U004",
+      "n_chars": 3118
+    },
+    {
+      "unit_id": "S05-U005",
+      "n_chars": 3162
+    },
+    {
+      "unit_id": "S05-U006",
+      "n_chars": 3145
+    },
+    {
+      "unit_id": "S05-U007",
+      "n_chars": 3097
+    },
+    {
+      "unit_id": "S05-U008",
+      "n_chars": 3064
+    },
+    {
+      "unit_id": "S05-U009",
+      "n_chars": 3241
+    },
+    {
+      "unit_id": "S05-U010",
+      "n_chars": 3187
+    },
+    {
+      "unit_id": "S05-U011",
+      "n_chars": 3122
+    },
+    {
+      "unit_id": "S05-U012",
+      "n_chars": 3104
+    },
+    {
+      "unit_id": "S05-U013",
+      "n_chars": 3077
+    },
+    {
+      "unit_id": "S05-U014",
+      "n_chars": 3096
+    },
+    {
+      "unit_id": "S05-U015",
+      "n_chars": 3071
+    },
+    {
+      "unit_id": "S05-U016",
+      "n_chars": 3075
+    },
+    {
+      "unit_id": "S05-U017",
+      "n_chars": 4197
+    },
+    {
+      "unit_id": "S05-U018",
+      "n_chars": 3962
+    },
+    {
+      "unit_id": "S05-U019",
+      "n_chars": 4109
+    },
+    {
+      "unit_id": "S06-U001",
+      "n_chars": 3269
+    },
+    {
+      "unit_id": "S06-U002",
+      "n_chars": 3234
+    },
+    {
+      "unit_id": "S06-U003",
+      "n_chars": 3102
+    },
+    {
+      "unit_id": "S06-U004",
+      "n_chars": 3079
+    },
+    {
+      "unit_id": "S06-U005",
+      "n_chars": 3085
+    },
+    {
+      "unit_id": "S06-U006",
+      "n_chars": 3034
+    },
+    {
+      "unit_id": "S06-U007",
+      "n_chars": 3217
+    },
+    {
+      "unit_id": "S06-U008",
+      "n_chars": 3054
+    },
+    {
+      "unit_id": "S06-U009",
+      "n_chars": 3028
+    },
+    {
+      "unit_id": "S06-U010",
+      "n_chars": 3883
+    },
+    {
+      "unit_id": "S06-U011",
+      "n_chars": 3096
+    },
+    {
+      "unit_id": "S06-U012",
+      "n_chars": 5240
+    },
+    {
+      "unit_id": "S06-U013",
+      "n_chars": 3365
+    },
+    {
+      "unit_id": "S07-U001",
+      "n_chars": 3193
+    },
+    {
+      "unit_id": "S07-U002",
+      "n_chars": 3202
+    },
+    {
+      "unit_id": "S07-U003",
+      "n_chars": 3097
+    },
+    {
+      "unit_id": "S07-U004",
+      "n_chars": 3171
+    },
+    {
+      "unit_id": "S07-U005",
+      "n_chars": 3030
+    },
+    {
+      "unit_id": "S07-U006",
+      "n_chars": 3088
+    },
+    {
+      "unit_id": "S07-U007",
+      "n_chars": 4776
+    },
+    {
+      "unit_id": "S07-U008",
+      "n_chars": 3264
+    },
+    {
+      "unit_id": "S07-U009",
+      "n_chars": 3012
+    },
+    {
+      "unit_id": "S07-U010",
+      "n_chars": 3176
+    },
+    {
+      "unit_id": "S07-U011",
+      "n_chars": 3442
+    },
+    {
+      "unit_id": "S08-U001",
+      "n_chars": 3952
+    },
+    {
+      "unit_id": "S08-U002",
+      "n_chars": 3184
+    },
+    {
+      "unit_id": "S08-U003",
+      "n_chars": 3735
+    },
+    {
+      "unit_id": "S08-U004",
+      "n_chars": 3203
+    },
+    {
+      "unit_id": "S08-U005",
+      "n_chars": 3234
+    },
+    {
+      "unit_id": "S08-U006",
+      "n_chars": 4042
+    },
+    {
+      "unit_id": "S08-U007",
+      "n_chars": 3938
+    },
+    {
+      "unit_id": "S08-U008",
+      "n_chars": 3618
+    },
+    {
+      "unit_id": "S08-U009",
+      "n_chars": 3687
+    },
+    {
+      "unit_id": "S08-U010",
+      "n_chars": 3891
+    },
+    {
+      "unit_id": "S08-U011",
+      "n_chars": 3070
+    },
+    {
+      "unit_id": "S08-U012",
+      "n_chars": 3146
+    },
+    {
+      "unit_id": "S08-U013",
+      "n_chars": 2215
+    },
+    {
+      "unit_id": "S09-U001",
+      "n_chars": 3060
+    },
+    {
+      "unit_id": "S09-U002",
+      "n_chars": 3107
+    },
+    {
+      "unit_id": "S09-U003",
+      "n_chars": 3151
+    },
+    {
+      "unit_id": "S09-U004",
+      "n_chars": 3212
+    },
+    {
+      "unit_id": "S09-U005",
+      "n_chars": 3238
+    },
+    {
+      "unit_id": "S09-U006",
+      "n_chars": 3088
+    },
+    {
+      "unit_id": "S09-U007",
+      "n_chars": 3217
+    },
+    {
+      "unit_id": "S09-U008",
+      "n_chars": 3267
+    },
+    {
+      "unit_id": "S09-U009",
+      "n_chars": 3182
+    },
+    {
+      "unit_id": "S09-U010",
+      "n_chars": 3907
+    },
+    {
+      "unit_id": "S09-U011",
+      "n_chars": 2571
+    },
+    {
+      "unit_id": "S10-U001",
+      "n_chars": 3215
+    },
+    {
+      "unit_id": "S10-U002",
+      "n_chars": 3335
+    },
+    {
+      "unit_id": "S10-U003",
+      "n_chars": 3140
+    },
+    {
+      "unit_id": "S10-U004",
+      "n_chars": 3067
+    },
+    {
+      "unit_id": "S10-U005",
+      "n_chars": 3049
+    },
+    {
+      "unit_id": "S10-U006",
+      "n_chars": 3163
+    },
+    {
+      "unit_id": "S10-U007",
+      "n_chars": 3146
+    },
+    {
+      "unit_id": "S10-U008",
+      "n_chars": 3722
+    },
+    {
+      "unit_id": "S10-U009",
+      "n_chars": 3016
+    },
+    {
+      "unit_id": "S10-U010",
+      "n_chars": 3044
+    },
+    {
+      "unit_id": "S10-U011",
+      "n_chars": 3374
+    },
+    {
+      "unit_id": "S10-U012",
+      "n_chars": 3526
+    },
+    {
+      "unit_id": "S10-U013",
+      "n_chars": 3617
+    },
+    {
+      "unit_id": "S10-U014",
+      "n_chars": 3007
+    },
+    {
+      "unit_id": "S10-U015",
+      "n_chars": 2726
+    },
+    {
+      "unit_id": "S11-U001",
+      "n_chars": 3373
+    },
+    {
+      "unit_id": "S11-U002",
+      "n_chars": 3715
+    },
+    {
+      "unit_id": "S11-U003",
+      "n_chars": 3057
+    },
+    {
+      "unit_id": "S11-U004",
+      "n_chars": 3211
+    },
+    {
+      "unit_id": "S11-U005",
+      "n_chars": 3246
+    },
+    {
+      "unit_id": "S11-U006",
+      "n_chars": 3056
+    },
+    {
+      "unit_id": "S11-U007",
+      "n_chars": 3450
+    },
+    {
+      "unit_id": "S11-U008",
+      "n_chars": 3484
+    },
+    {
+      "unit_id": "S11-U009",
+      "n_chars": 3486
+    },
+    {
+      "unit_id": "S11-U010",
+      "n_chars": 3182
+    },
+    {
+      "unit_id": "S11-U011",
+      "n_chars": 3144
+    },
+    {
+      "unit_id": "S11-U012",
+      "n_chars": 3232
+    },
+    {
+      "unit_id": "S11-U013",
+      "n_chars": 3999
+    },
+    {
+      "unit_id": "S12-U001",
+      "n_chars": 3106
+    },
+    {
+      "unit_id": "S12-U002",
+      "n_chars": 3136
+    },
+    {
+      "unit_id": "S12-U003",
+      "n_chars": 5261
+    },
+    {
+      "unit_id": "S12-U004",
+      "n_chars": 3706
+    },
+    {
+      "unit_id": "S12-U005",
+      "n_chars": 3369
+    },
+    {
+      "unit_id": "S12-U006",
+      "n_chars": 3531
+    },
+    {
+      "unit_id": "S12-U007",
+      "n_chars": 3035
+    },
+    {
+      "unit_id": "S12-U008",
+      "n_chars": 3015
+    },
+    {
+      "unit_id": "S12-U009",
+      "n_chars": 3707
+    },
+    {
+      "unit_id": "S12-U010",
+      "n_chars": 3090
+    },
+    {
+      "unit_id": "S12-U011",
+      "n_chars": 3088
+    },
+    {
+      "unit_id": "S12-U012",
+      "n_chars": 3676
+    },
+    {
+      "unit_id": "S12-U013",
+      "n_chars": 3214
+    },
+    {
+      "unit_id": "S12-U014",
+      "n_chars": 3681
+    },
+    {
+      "unit_id": "S13-U001",
+      "n_chars": 3072
+    },
+    {
+      "unit_id": "S13-U002",
+      "n_chars": 3469
+    },
+    {
+      "unit_id": "S13-U003",
+      "n_chars": 3132
+    },
+    {
+      "unit_id": "S13-U004",
+      "n_chars": 3509
+    },
+    {
+      "unit_id": "S13-U005",
+      "n_chars": 4272
+    },
+    {
+      "unit_id": "S13-U006",
+      "n_chars": 3828
+    },
+    {
+      "unit_id": "S13-U007",
+      "n_chars": 3266
+    },
+    {
+      "unit_id": "S13-U008",
+      "n_chars": 3063
+    },
+    {
+      "unit_id": "S13-U009",
+      "n_chars": 3905
+    },
+    {
+      "unit_id": "S13-U010",
+      "n_chars": 3292
+    },
+    {
+      "unit_id": "S13-U011",
+      "n_chars": 3147
+    },
+    {
+      "unit_id": "S13-U012",
+      "n_chars": 3064
+    },
+    {
+      "unit_id": "S13-U013",
+      "n_chars": 3028
+    },
+    {
+      "unit_id": "S13-U014",
+      "n_chars": 3461
+    },
+    {
+      "unit_id": "S13-U015",
+      "n_chars": 3043
+    },
+    {
+      "unit_id": "S13-U016",
+      "n_chars": 2460
+    }
+  ]
+}

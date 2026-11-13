@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed_size,500,50,"source,page,unit_id,story",none,paraphrase-multilingual-MiniLM-L12-v2 (384d),Fixed 500/50 has high granularity but risk of cutting mid-sentence/mid-paragraph.,1/15,3/15,0/5,0/5,"1404 chunks, 67.1s ingest, $0 cost"
+B,by_paragraph,max 1000,0,"source,page,unit_id,story",none,paraphrase-multilingual-MiniLM-L12-v2 (384d),Paragraph chunking preserves complete semantic thoughts and increases coherence.,2/15,2/15,0/5,0/5,"816 chunks, 36.4s ingest, $0 cost"
+C,by_paragraph (same as B),max 1000,0,"source,page,unit_id,story",SQL WHERE metadata->>'story' = :story,paraphrase-multilingual-MiniLM-L12-v2 (384d),Filtering by story removes cross-story false positives and improves precision.,2/15,3/15,0/5,0/5,"Reuses B index (816 chunks), filter compliance 5/5"

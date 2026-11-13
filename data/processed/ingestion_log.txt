@@ -1,0 +1,15 @@
+S01 THE ADVENTURE OF THE EMPTY HOUSE: 114 paragraphs -> 14 units
+S02 THE ADVENTURE OF THE NORWOOD BUILDER: 213 paragraphs -> 15 units
+S03 THE ADVENTURE OF THE DANCING MEN: 210 paragraphs -> 16 units
+S04 THE ADVENTURE OF THE SOLITARY CYCLIST: 147 paragraphs -> 13 units
+S05 THE ADVENTURE OF THE PRIORY SCHOOL: 348 paragraphs -> 19 units
+S06 THE ADVENTURE OF BLACK PETER: 195 paragraphs -> 13 units
+S07 THE ADVENTURE OF CHARLES AUGUSTUS MILVERTON: 124 paragraphs -> 11 units
+S08 THE ADVENTURE OF THE SIX NAPOLEONS: 150 paragraphs -> 13 units
+S09 THE ADVENTURE OF THE THREE STUDENTS: 212 paragraphs -> 11 units
+S10 THE ADVENTURE OF THE GOLDEN PINCE-NEZ: 181 paragraphs -> 15 units
+S11 THE ADVENTURE OF THE MISSING THREE-QUARTER: 210 paragraphs -> 13 units
+S12 THE ADVENTURE OF THE ABBEY GRANGE: 178 paragraphs -> 14 units
+S13 THE ADVENTURE OF THE SECOND STAIN: 267 paragraphs -> 16 units
+units below 1500 chars: none
+empty paragraphs/pages dropped: handled by parser (no empty unit kept)
