@@ -32,6 +32,45 @@ Dùng cùng dữ liệu, model và câu hỏi cho cả ba cấu hình. Tách **1
 2. Điền [thông tin học viên](STUDENT.md), [nhật ký thí nghiệm](artifacts/experiment_log.csv) và bản sao [mẫu báo cáo cá nhân](report/individual/2A202603400_BuiVanLam.md).
 3. Kiểm tra mã nguồn, cách chạy, manifest dữ liệu và checklist trong [SUBMISSION.md](SUBMISSION.md).
 
+## 4. Hướng dẫn thiết lập và tái lập từ đầu (Reproducibility)
+
+### Bước 1: Khởi động Vector Database (Docker pgvector)
+```bash
+cd starter
+docker compose -p day6_student_starter up -d --wait
+```
+
+### Bước 2: Kích hoạt môi trường ảo và kiểm tra kết nối
+```bash
+# Kích hoạt venv (Windows PowerShell)
+& "C:\Users\OS\Downloads\VinAI\.env\Scripts\Activate.ps1"
+
+# Kiểm tra kết nối CSDL và extension pgvector
+python starter/scripts/check_setup.py
+```
+
+### Bước 3: Xử lý Corpus & Xác thực Benchmark
+```bash
+# Chuẩn hóa HTML thành 183 units sạch và tạo manifest
+python starter/scripts/build_corpus.py
+
+# Kiểm tra 20 câu hỏi benchmark và tính toàn vẹn của evidence
+python benchmark/verify_benchmark.py
+```
+
+### Bước 4: Chạy toàn bộ Pipeline thực nghiệm
+```bash
+cd starter
+python -m src.run
+```
+Lệnh trên sẽ tự động:
+- Nạp và nhúng vector cho Chiến lược A (1.404 chunks) và B (816 chunks) vào pgvector.
+- Kiểm tra tính Idempotency (nạp lại số dòng giữ nguyên 100%).
+- Thực thi 60 lượt truy vấn benchmark trên 3 chiến lược A, B, C.
+- Tính toán Hit@1, Evidence Hit@3 (tách dev/test) và tỷ lệ tuân thủ Filter.
+- Xuất toàn bộ trace ra `results/traces.jsonl` và cập nhật `artifacts/experiment_log.csv`.
+- Tạo các bảng audit thủ công tại `results/audit/`.
+
 ## Tài liệu hướng dẫn
 
 | Bạn cần tìm | Tài liệu |
